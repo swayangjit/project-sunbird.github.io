@@ -160,6 +160,8 @@ The following table lists down the sample JSON structure with descriptions for e
 | --- | --- |------| ------| ------| ------|
 | **Onboarding Details** | This form is used to save/update/read onboarding question details | user | instructor | onboarding | app
 | **Force/Optional Upgrade** | This form is used to save/update/read or force/optional app upgrade | app | install | upgrade | app
+| **Page Assemble course filter** | This form is used to get filters for courses | pageAssemble | course | filter | app
+| **Page Assemble library filter** | This form is used to get filters for library | pageAssemble | library | filter | app
 
 ### Input & Data Types 
 
